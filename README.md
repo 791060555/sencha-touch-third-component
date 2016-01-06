@@ -184,15 +184,11 @@ elcome to recommend good sencha-touch open source projects, you can Commit direc
 <br>Sencha Touch extension of the official Ext.List component, which provides more interesting features like element sorting, single / multi delete mode and much more.
 </br>Project Address：https://github.com/AndreaCammarata/Ext.tux.EditableList
 
-47. Ext.tux.EditableList
-<br>Sencha Touch extension of the official Ext.List component, which provides more interesting features like element sorting, single / multi delete mode and much more.
-</br>Project Address：https://github.com/AndreaCammarata/Ext.tux.EditableList
-
-48. FeedBurner-RSS-Reader
+47. FeedBurner-RSS-Reader
 <br>Feed Burner RSS Reader application developed with Sencha Touch 2
 </br>Project Address：https://github.com/AndreaCammarata/FeedBurner-RSS-Reader
 
-49. MultiBadgeButton
+48. MultiBadgeButton
 <br>Ext.Button extension for Sencha Touch 2.x
 </br>Project Address：https://github.com/brianmjerome/MultiBadgeButton
 
