@@ -1,5 +1,5 @@
 # sencha-touch-third-component
-elcome to recommend good sencha-touch open source projects, you can Commit directly or tell me at Colloct Page. Welcome Star and Fork
+welcome to recommend good sencha-touch open source projects, you can Commit directly or tell me at Colloct Page. Welcome Star and Fork
 </br> Email：791060555@qq.com    QQ：791060555
 ***
 1. TouchTreeGrid and CalendarPicker
